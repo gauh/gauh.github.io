@@ -1,3 +1,4 @@
-$(function(){
+$(function() {
+  console.log('hello');
   alert('hello world');
 });
