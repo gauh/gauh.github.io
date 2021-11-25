@@ -1,5 +1,5 @@
 $(function() {
   debugger;
-  console.log('hello');
+  console.log('hello ');
   alert('hello world');
 });
